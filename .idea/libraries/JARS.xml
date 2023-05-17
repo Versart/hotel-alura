@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="JARS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/challenge-one-alura-hotel-br/JARS/mchange-commons-java-0.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/challenge-one-alura-hotel-br/JARS/c3p0-0.9.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/challenge-one-alura-hotel-br/JARS/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/challenge-one-alura-hotel-br/JARS/mysql-connector-java-8.0.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+
+k	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ìˆ ıÿÿÿÿ
+C
+java:S1604D"(Make this anonymous inner class a lambda(¹×û¬ıÿÿÿÿ
+H
+java:S11991"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+H
+java:S11997"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+H
+java:S1199>"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+H
+java:S1199B"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+H
+java:S1199O"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+b
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Ì—İ

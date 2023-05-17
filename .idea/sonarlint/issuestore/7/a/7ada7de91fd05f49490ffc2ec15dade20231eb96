@@ -1,0 +1,20 @@
+
+]
+java:S1192q"HDefine a constant instead of duplicating this literal "Roboto" 11 times.(ñšÃ
+g	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷€üâ
+f	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íı¬
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ Øöşÿÿÿÿ
+g	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄŠŒÿ
+l	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıšˆúÿÿÿÿ
+C
+java:S1604$"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+:
+java:S1659"$Declare "yMouse" on a separate line.(³ºÃª
+d
+java:S32525"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+F
+java:S1128	"0Remove this unused import 'javax.swing.JButton'.(´ÀÃ“
+P
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹
+M
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘

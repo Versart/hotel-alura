@@ -1,0 +1,23 @@
+
+i
+java:S1192Œ"MDefine a constant instead of duplicating this literal "Roboto Black" 3 times.(ú àñşÿÿÿÿ
+b
+java:S1192l"GDefine a constant instead of duplicating this literal "Roboto" 4 times.(¼¹‹äıÿÿÿÿ
+_
+java:S1192x"IDefine a constant instead of duplicating this literal "********" 3 times.(³ï°˜
+p
+java:S1192s"[Define a constant instead of duplicating this literal "Digite seu nome de usuario" 3 times.(µ…¬Z
+k	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï½åúÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ºè½şÿÿÿÿ
+f	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É©át
+g	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–«
+l	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‘Ú²øÿÿÿÿ
+C
+java:S1604%"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+c
+java:S1223í"LRename this method to prevent any misunderstanding or make it a constructor.(ÀğŠÕ
+:
+java:S1659"$Declare "yMouse" on a separate line.(³ºÃª
+d
+java:S32527"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+d	java:S100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀğŠÕ
